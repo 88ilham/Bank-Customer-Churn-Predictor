@@ -1,4 +1,4 @@
-# [WIP 🏦 Bank Customer Churn Prediction
+# [WIP] 🏦 Bank Customer Churn Prediction
 
 *A machine learning model to predict customer attrition using XGBoost, achieving **82% accuracy** with optimized recall for churn detection.*
 
